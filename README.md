@@ -1,5 +1,8 @@
 # ts-vue-sample
 
+## node version
+v18.16.1
+
 ## Project setup
 ```
 npm install
